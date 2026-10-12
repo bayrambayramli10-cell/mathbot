@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Math Bot</string>
+    <string name="service_desc">Ekrandakı tənliyi oxuyur və düzgün düyməyə toxunur.</string>
+</resources>
